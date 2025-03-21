@@ -9,9 +9,9 @@
 rule JSOCTEST_plugX : rat
 {
 	meta:
-		author = "Jean-Philippe Teissier / @Jipe_"
+		author = "jfisto"
 		description = "PlugX RAT"
-		date = "2014-05-13"
+		date = "2025-03-21"
 		filetype = "memory"
 		version = "1.0" 
 		ref1 = "https://github.com/mattulm/IR-things/blob/master/volplugs/plugx.py"
