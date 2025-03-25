@@ -6,7 +6,7 @@
    Reference: https://github.com/jfisto/signature-base-yara/new/main
 */
 
-rule JSOCTEST_invalid_trailer_structure : PDF
+rule JSOCTEST_invalid_trailer_structure_jfisto : PDF
 {
 	meta:
 		author = "Glenn Edwards (@hiddenillusion)"
